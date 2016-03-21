@@ -60,6 +60,7 @@
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "Menu";
             this.Text = "Proyecto Escolar v1.0";
+            this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Menu_FormClosing);
             this.Load += new System.EventHandler(this.Menu_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();

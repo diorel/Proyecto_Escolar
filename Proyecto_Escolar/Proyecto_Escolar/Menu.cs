@@ -17,12 +17,23 @@ namespace Proyecto_Escolar
             InitializeComponent();
         }
 
+        public bool UsuarioLogueado = false; 
+
         private void Menu_Load(object sender, EventArgs e)
         {
             this.Hide();
             Login login = new Login();
             login.ShowDialog();
 
+            if (login.loguado == true)
+            {
+                this.Show();
+                UsuarioLogueado = true;
+            }
+            else
+            {
+                this.Close();
+            }
 
 
         }
@@ -30,6 +41,22 @@ namespace Proyecto_Escolar
         private void archivoToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void Menu_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            if (UsuarioLogueado == true)
+            {
+                DialogResult respuesta;
+                respuesta = MessageBox.Show("¿Deseas salir del sistema?", "Confirme", MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+                if (respuesta == DialogResult.No)
+                {
+                    e.Cancel = true;
+
+                    
+                }
+                
+            }
         }
     }
 }

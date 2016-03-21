@@ -16,5 +16,41 @@ namespace Proyecto_Escolar
         {
             InitializeComponent();
         }
+
+        private void Login_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        public bool loguado = false;
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            loguado = true;
+
+            if (loguado == true)
+            {
+                MessageBox.Show("Bienbenido usuario", "Mensaje", MessageBoxButtons.OK);
+                this.Close();
+            }
+            else
+            {
+                MessageBox.Show("Aceeso denegado, intente nueva mente","Error",MessageBoxButtons.OK);
+                textNombre.Text = "";
+                textContraseña.Text = "";
+                textNombre.Focus();
+            }
+
+
+
+
+
+
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
     }
 }
