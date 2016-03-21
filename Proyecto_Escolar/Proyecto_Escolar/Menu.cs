@@ -26,5 +26,10 @@ namespace Proyecto_Escolar
 
 
         }
+
+        private void archivoToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
