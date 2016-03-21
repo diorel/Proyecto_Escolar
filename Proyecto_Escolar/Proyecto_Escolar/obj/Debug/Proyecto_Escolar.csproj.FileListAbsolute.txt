@@ -1,0 +1,13 @@
+c:\users\raul\documents\visual studio 2013\Projects\Proyecto_Escolar\Proyecto_Escolar\bin\Debug\Proyecto_Escolar.exe.config
+c:\users\raul\documents\visual studio 2013\Projects\Proyecto_Escolar\Proyecto_Escolar\bin\Debug\Proyecto_Escolar.exe
+c:\users\raul\documents\visual studio 2013\Projects\Proyecto_Escolar\Proyecto_Escolar\bin\Debug\Proyecto_Escolar.pdb
+c:\users\raul\documents\visual studio 2013\Projects\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.csprojResolveAssemblyReference.cache
+c:\users\raul\documents\visual studio 2013\Projects\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.Login.resources
+c:\users\raul\documents\visual studio 2013\Projects\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.Menu.resources
+c:\users\raul\documents\visual studio 2013\Projects\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.Properties.Resources.resources
+c:\users\raul\documents\visual studio 2013\Projects\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.csproj.GenerateResource.Cache
+c:\users\raul\documents\visual studio 2013\Projects\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.exe
+c:\users\raul\documents\visual studio 2013\Projects\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.pdb
+C:\Users\Raul\Documents\GitHub\Proyecto_Escolar\Proyecto_Escolar\Proyecto_Escolar\bin\Debug\Proyecto_Escolar.exe.config
+C:\Users\Raul\Documents\GitHub\Proyecto_Escolar\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.exe
+C:\Users\Raul\Documents\GitHub\Proyecto_Escolar\Proyecto_Escolar\Proyecto_Escolar\obj\Debug\Proyecto_Escolar.pdb
